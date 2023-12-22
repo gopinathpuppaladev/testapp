@@ -1,2 +1,1 @@
-print("Hellow")
-print(Good")
+print("Hellow....!.")
